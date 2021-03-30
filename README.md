@@ -3,9 +3,10 @@
 
 this report will take about the **Growth Mindset** as mintiond in the asignment 
 ## ***table of contant***
- number | title 
- -------|---------
-  one | [what is growth mindset](file-1)
-  two | [reminder for m self](file-2)
-  three | [about me](file-3)
+    
+number | title 
+-------|---------
+one | [what is growth mindset](file-1)
+two | [reminder for m self](file-2)
+three | [about me](file-3)
 
