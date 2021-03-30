@@ -1,4 +1,4 @@
-# -reading-notesgf n
+# reading-notesgf n
 by reviewing the first article I can say that its talking about the text editors, simplify them and mintion some of the most famous ones. but what I liked about it. is that shows you how much they are close to each others. and the final and the most importent factor for the programmer to choose one of them is his own satisfing about it. he outher mintioned something about the extintions and how importent are they, but I thing that I will keep my opinion until I start coding and find what is importent and what is not.
 
 
