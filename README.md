@@ -12,4 +12,4 @@ three | [about me](file-3)
 four | [read 03: Structure web pages with HTML](read03)
 five | [Read: 04 - Programming with JavaScript](read04)
 six | [Read: 05 - Operators and Loops](read05)
-
+seven | [Read: 06b - Design web pages with CSS](read06)
