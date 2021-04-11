@@ -18,3 +18,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | number | code201 reading note |
 | -------- | ---------- |
 | one | [Introductory HTML and JavaScript](read201-01) |
+| two | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](read201-02) |
