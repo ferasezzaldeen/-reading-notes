@@ -20,3 +20,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | one | [Introductory HTML and JavaScript](read201-01) |
 | two | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](read201-02) |
 | three | [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](read201-03) |
+| four | [Read: 04 - HTML Links, CSS Layout, JS Functions](read201-04) |
