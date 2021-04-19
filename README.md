@@ -24,3 +24,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | five | [Read: 05 - HTML Images; CSS Color & Text](read201-05) |
 | sex | [Read: 06 - JS Object Literals; The DOM](read201-06) |
 | seven | [Read: 07 - HTML Tables; JS Constructor Functions](read201-07) |
+| eight | [Read: 08 - More CSS Layout](read201-08) |
