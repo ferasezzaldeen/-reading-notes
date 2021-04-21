@@ -26,3 +26,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | seven | [Read: 07 - HTML Tables; JS Constructor Functions](read201-07) |
 | eight | [Read: 08 - More CSS Layout](read201-08) |
 | nine | [Read: 09 - Forms and Events](read201-09)
+| ten | [Read: 10 - JS Debugging](read201-10) |
