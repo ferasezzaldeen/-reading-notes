@@ -27,3 +27,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | eight | [Read: 08 - More CSS Layout](read201-08) |
 | nine | [Read: 09 - Forms and Events](read201-09)
 | ten | [Read: 10 - JS Debugging](read201-10) |
+| eleven | [Read: 11 - Assorted Topics](read201-11) |
