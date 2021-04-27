@@ -30,3 +30,5 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | eleven | [Read: 11 - Assorted Topics](read201-11) |
 | twelve | [Read: 12 - Docs for the HTML canvas Element & Chart.js](read201-12) |
 | therteen | [Read: 13 - Local Storage](read201-13) |
+| fourteen | [Read: 14a - CSS Transforms, Transitions, and Animations](read201-14a) |
+| fifteen | [Read: 14b - What Google Learned About Teams](read201-14b)|
