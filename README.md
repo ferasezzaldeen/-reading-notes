@@ -32,3 +32,10 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | therteen | [Read: 13 - Local Storage](read201-13) |
 | fourteen | [Read: 14a - CSS Transforms, Transitions, and Animations](read201-14a) |
 | fifteen | [Read: 14b - What Google Learned About Teams](read201-14b)|
+
+
+
+
+| number | code301 reading notes |
+| ----- | --------- |
+| one | [Introduction to React and Components](read301-1) |
