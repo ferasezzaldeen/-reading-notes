@@ -39,3 +39,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | number | code301 reading notes |
 | ----- | --------- |
 | one | [Introduction to React and Components](read301-1) |
+| two | [State and Props](read301-2)  |
