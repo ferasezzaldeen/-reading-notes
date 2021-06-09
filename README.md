@@ -42,3 +42,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | two | [State and Props](301/read301-2)  |
 | three | [Passing Functions as Props](301/read301-03) |
 | four | [ React and Forms](301/read301-04) |
+| five | [Putting it all together](301/read301-05) |
