@@ -36,6 +36,7 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 
 
 
+
 | number | code301 reading notes |
 | ----- | --------- |
 | one | [Introduction to React and Components](301/read301-1) |
@@ -47,3 +48,4 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | seven | [REST](301/read301-07) |
 | eight | [APIs](301/read301-08) |
 | nine | [FUNCTIONAL PROGRAMMING](301/read301-09) |
+| ten | [ In memory storage](301/read301-10) |
