@@ -53,3 +53,9 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | eleven | [Authentication](301/read301-11) |
 | twelve | [Mongo and Mongoose](301/read301-12) |
 | therteen | [CRUD](301/read301-13) |
+
+
+
+| number | code301 reading notes |
+| ----- | --------- |
+| one | [Topic](401/read401-1) |
