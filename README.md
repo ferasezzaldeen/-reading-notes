@@ -1,10 +1,18 @@
-# reading-notes
+# ***Reading Notes***
 ![welcomee](https://www.callcentrehelper.com/images/stories/2018/11/welcome-red-sign-760.png)
 
-this report will take about the **Growth Mindset** as mintiond in the asignment 
-## ***table of contant***
-    
-| number | code102 reading notes |
+this website is about my own notes for the Reading assignments throw the courses from 101 to 401
+
+
+
+## ***Tables of contant***
+
+
+
+
+## Code 102 - Intro to Software Development
+
+| Number | Topic |
 | -------|--------- |
 | one | [what is growth mindset](100/file-1) |
 | two | [reminder for m self](100/file-2) |
@@ -15,7 +23,9 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | seven | [Read: 06b - Design web pages with CSS](100/read06) |
 
 
-| number | code201 reading note |
+## Code 201 - Foundations of Software Development
+
+| Number | Topic |
 | -------- | ---------- |
 | one | [Introductory HTML and JavaScript](201/read201-01) |
 | two | [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/read201-02) |
@@ -35,10 +45,10 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 
 
 
+## Code 301 - Intermediate Software Development
 
 
-
-| number | code301 reading notes |
+| Number | Topic |
 | ----- | --------- |
 | one | [Introduction to React and Components](301/read301-1) |
 | two | [State and Props](301/read301-2)  |
@@ -54,8 +64,8 @@ this report will take about the **Growth Mindset** as mintiond in the asignment
 | twelve | [Mongo and Mongoose](301/read301-12) |
 | therteen | [CRUD](301/read301-13) |
 
+## Code 401 - Advanced Software Development
 
-
-| number | code301 reading notes |
+| number |  |
 | ----- | --------- |
 | one | [Topic](401/read401-1) |
