@@ -72,3 +72,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | two | [Testing and Modules](401/read401-2) |
 | three | [FileIO & Exceptions](401/read401-3) |
 | four | [Topic](401/read401-4) |
+| five | [Linked Lists](401/read401-5) |
