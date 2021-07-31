@@ -1,14 +1,10 @@
 # ***Reading Notes***
+
 ![welcomee](https://www.callcentrehelper.com/images/stories/2018/11/welcome-red-sign-760.png)
 
 this website is about my own notes for the Reading assignments throw the courses from 101 to 401
 
-
-
 ## ***Tables of contant***
-
-
-
 
 ## Code 102 - Intro to Software Development
 
@@ -21,7 +17,6 @@ this website is about my own notes for the Reading assignments throw the courses
 | five | [Read: 04 - Programming with JavaScript](100/read04) |
 | six | [Read: 05 - Operators and Loops](100/read05) |
 | seven | [Read: 06b - Design web pages with CSS](100/read06) |
-
 
 ## Code 201 - Foundations of Software Development
 
@@ -43,23 +38,20 @@ this website is about my own notes for the Reading assignments throw the courses
 | fourteen | [Read: 14a - CSS Transforms, Transitions, and Animations](201/read201-14a) |
 | fifteen | [Read: 14b - What Google Learned About Teams](201/read201-14b)|
 
-
-
 ## Code 301 - Intermediate Software Development
-
 
 | Number | Topic |
 | ----- | --------- |
 | one | [Introduction to React and Components](301/read301-1) |
 | two | [State and Props](301/read301-2)  |
 | three | [Passing Functions as Props](301/read301-03) |
-| four | [ React and Forms](301/read301-04) |
+| four | [React and Forms](301/read301-04) |
 | five | [Putting it all together](301/read301-05) |
 | six | [NODE.JS](301/read301-06) |
 | seven | [REST](301/read301-07) |
 | eight | [APIs](301/read301-08) |
 | nine | [FUNCTIONAL PROGRAMMING](301/read301-09) |
-| ten | [ In memory storage](301/read301-10) |
+| ten | [In memory storage](301/read301-10) |
 | eleven | [Authentication](301/read301-11) |
 | twelve | [Mongo and Mongoose](301/read301-12) |
 | therteen | [CRUD](301/read301-13) |
@@ -73,3 +65,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | three | [FileIO & Exceptions](401/read401-3) |
 | four | [Topic](401/read401-4) |
 | five | [Linked Lists](401/read401-5) |
+| six | [Game of Greed 1](401/read401-6) |
