@@ -66,3 +66,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | four | [Topic](401/read401-4) |
 | five | [Linked Lists](401/read401-5) |
 | six | [Game of Greed 1](401/read401-6) |
+| seven | [Game of Greed 2](401/read401-7) |
