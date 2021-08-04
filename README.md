@@ -69,3 +69,5 @@ this website is about my own notes for the Reading assignments throw the courses
 | seven | [Game of Greed 2](401/read401-7) |
 | eight | [List Comprehensions](401/read401-8) |
 | nine | [Game of Greed 4](401/read401-9) |
+| ten | [Stacks and Queues](401/read401-10) |
+
