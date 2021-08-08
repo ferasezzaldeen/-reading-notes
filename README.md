@@ -71,4 +71,6 @@ this website is about my own notes for the Reading assignments throw the courses
 | nine | [Game of Greed 4](401/read401-9) |
 | ten | [Stacks and Queues](401/read401-10) |
 | eleven | [Data Analysis](401/read401-11) |
+| twelve | [10 minutes to pandas](401/read401-12) |
+| eleven | [Linear Regressions](401/read401-13) |
 
