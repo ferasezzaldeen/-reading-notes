@@ -75,4 +75,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 13 | [Linear Regressions](401/read401-13) |
 | 14 | [Matplotlib tutorial](401/read401-14) |
 | 15 | [trees](401/read401-15) |
-
+| 16 | [Machine Learning Intro](401/read401-16) |
