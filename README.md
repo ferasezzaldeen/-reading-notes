@@ -60,21 +60,22 @@ this website is about my own notes for the Reading assignments throw the courses
 
 | Number | Topic |
 | ----- | --------- |
-| one | [Topic](401/read401-1) |
-| two | [Testing and Modules](401/read401-2) |
-| three | [FileIO & Exceptions](401/read401-3) |
-| four | [Topic](401/read401-4) |
-| five | [Linked Lists](401/read401-5) |
-| six | [Game of Greed 1](401/read401-6) |
-| seven | [Game of Greed 2](401/read401-7) |
-| eight | [List Comprehensions](401/read401-8) |
-| nine | [Game of Greed 4](401/read401-9) |
-| ten | [Stacks and Queues](401/read401-10) |
-| eleven | [Data Analysis](401/read401-11) |
-| twelve | [10 minutes to pandas](401/read401-12) |
+| 1 | [Topic](401/read401-1) |
+| 2 | [Testing and Modules](401/read401-2) |
+| 3 | [FileIO & Exceptions](401/read401-3) |
+| 4 | [Topic](401/read401-4) |
+| 5 | [Linked Lists](401/read401-5) |
+| 6 | [Game of Greed 1](401/read401-6) |
+| 7 | [Game of Greed 2](401/read401-7) |
+| 8 | [List Comprehensions](401/read401-8) |
+| 9 | [Game of Greed 4](401/read401-9) |
+| 10 | [Stacks and Queues](401/read401-10) |
+| 11 | [Data Analysis](401/read401-11) |
+| 12 | [10 minutes to pandas](401/read401-12) |
 | 13 | [Linear Regressions](401/read401-13) |
 | 14 | [Matplotlib tutorial](401/read401-14) |
 | 15 | [trees](401/read401-15) |
 | 16 | [Machine Learning Intro](401/read401-16) |
 | 18 | [Cryptography](401/read401-18) |
 | 19 | [Automation](401/read401-19) |
+| 26 | [Intro to Django](401/read401-26) |
