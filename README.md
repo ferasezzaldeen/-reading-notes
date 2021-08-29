@@ -79,3 +79,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 18 | [Cryptography](401/read401-18) |
 | 19 | [Automation](401/read401-19) |
 | 26 | [Intro to Django](401/read401-26) |
+| 27 | [Django Models](401/read401-27 ) |
