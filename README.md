@@ -81,3 +81,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 26 | [Intro to Django](401/read401-26) |
 | 27 | [Django Models](401/read401-27 ) |
 | 28 | [Django CRUD and Forms](401/read401-28 ) |
+| 29 | [Django Custom User](401/read401-29 ) |
