@@ -87,3 +87,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 32 | [Permissions & Postgresql](401/read401-32 ) |
 | 33 | [Authentication & Production Server](401/read401-33 ) |
 | 34 | [API Deployment](401/read401-34 ) |
+| 35 | [Graphs](401/read401-35 ) |
