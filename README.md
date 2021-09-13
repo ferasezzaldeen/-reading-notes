@@ -90,3 +90,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 35 | [Graphs](401/read401-35 ) |
 | 36 | [DSA Review](401/read401-36 ) |
 | 37 | [React 1](401/read401-37 ) |
+| 38 | [React 2](401/read401-38 ) |
