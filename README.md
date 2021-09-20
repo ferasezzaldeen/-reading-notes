@@ -95,3 +95,4 @@ this website is about my own notes for the Reading assignments throw the courses
 | 41 | [deploy](401/read401-41 ) |
 | 42 | [dunder](401/read401-41 ) |
 | 42b | [ethics in AI](401/read401-42b ) |
+| 43 | [Open-Source Software Contribution](401/read401-43 ) |
