@@ -93,3 +93,5 @@ this website is about my own notes for the Reading assignments throw the courses
 | 38 | [React 2](401/read401-38 ) |
 | 39 | [React 3](401/read401-39 ) |
 | 41 | [deploy](401/read401-41 ) |
+| 42 | [dunder](401/read401-41 ) |
+| 42b | [ethics in AI](401/read401-42b ) |
